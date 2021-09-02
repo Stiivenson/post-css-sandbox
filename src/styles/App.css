@@ -1,0 +1,6 @@
+$color: #ffe;
+
+h1 {
+  color: $color;
+  text-align: center;
+}

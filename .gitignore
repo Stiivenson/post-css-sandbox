@@ -1,0 +1,10 @@
+# Node Modules
+/node_modules
+
+# Distribution
+/dist
+
+/.idea
+lib
+!.gitempty
+/.env
