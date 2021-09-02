@@ -1,6 +1,9 @@
-$color: #ffe;
+$color: #000;
 
 h1 {
+  border: 1px solid #f00;
   color: $color;
+  display: block;
   text-align: center;
+  width: 100px;
 }
